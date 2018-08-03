@@ -1,6 +1,5 @@
 
 import cv2
-import numpy as np
 
 ant_cascade = cv2.CascadeClassifier('cascade.xml')
 
