@@ -12,8 +12,8 @@ Instructions:
   2. i. If you're using a Python IDE, then just open the script and run it.                                                     
 
      ii. If you don't have an IDE, open your terminal and navigate to the directory (~/Ant-Detection) and type out:
-     python script.py 
-     If you get an error similar to "no module named numpy/cv2", then try python3 script.py
+     "python script.py". 
+     If you get an error similar to "no module cv2", then try "python3 script.py"
   3. To exit, press any key.
   
      
