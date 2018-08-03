@@ -9,7 +9,8 @@ Result: https://i.imgur.com/MlSE4Mh.png
 Instructions:
   1. Clone the entire repository
   2. You need to have OpenCV to run it. If you don't, "git clone https://github.com/opencv/opencv.git" into the repository.
-  2. i. If you're using a Python IDE, then just open the script and run it.
+  2. i. If you're using a Python IDE, then just open the script and run it.                                                     
+
      ii. If you don't have an IDE, open your terminal and navigate to the directory (~/Ant-Detection) and type out:
      python script.py 
      If you get an error similar to "no module named numpy/cv2", then try python3 script.py
