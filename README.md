@@ -6,7 +6,7 @@ I used around 42 vanilla positive images changed into around 9000 with slight an
 A few false positives and some undetected because my positive/negative images set wasn't large enough. Could only train the classifier for 7 stages.
 Result: https://i.imgur.com/MlSE4Mh.png 
 
-Instructions:
+How to run the script:
   1. Clone the entire repository
   2. You need to have OpenCV to run it. If you don't, "git clone https://github.com/opencv/opencv.git" into the repository.
   2. i. If you're using a Python IDE, then just open the script and run it.                                                     
