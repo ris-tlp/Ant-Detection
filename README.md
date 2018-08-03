@@ -18,6 +18,7 @@ How to run the script:
   3. To exit, press any key.
   
 If you'd like to use your own image:         
+   
    Download and place your image in the root directory of the repo (~/Ant-Detection/) with a name say, img.jpg
     
    Open script.py with any text editor and replace sample.jpeg in img = cv2.imread('sample.jpeg') with what you've named your      image, in this case, 'img.jpg'. Be sure to include the quotes!
