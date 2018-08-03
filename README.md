@@ -5,7 +5,7 @@ I used around 42 vanilla positive images changed into around 9000 with slight an
 
 A few false positives and some undetected because my positive/negative images set wasn't large enough. Could only train the classifier for 7 stages.
 Result: https://i.imgur.com/MlSE4Mh.png 
-![alt text](http://url/to/img.png)
+![https://i.imgur.com/MlSE4Mh.png](https://i.imgur.com/MlSE4Mh.png)
 
 How to run the script:
   1. Clone the entire repository
