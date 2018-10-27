@@ -1,4 +1,3 @@
-
 import cv2
 
 ant_cascade = cv2.CascadeClassifier('cascade.xml')
